@@ -26,7 +26,7 @@ setup(
         'Topic :: Software Development :: Libraries :: Python Modules'],
     zip_safe=False,
     install_requires=[
-        'django>=1.5',
+        'django==1.3.1',
         'django-tastypie>=0.9.13',
         'python-mimeparse>=0.1.4',
         'pytz==2013.8',
